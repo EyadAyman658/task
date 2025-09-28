@@ -1,0 +1,40 @@
+{
+  "title": "استكشاف الأسهم",
+  "subtitle": "ابحث واستكشف رموز الأسهم من سوق النازداك",
+  "search": {
+    "placeholder": "ابحث عن رموز الأسهم (مثل: AAPL، GOOGL، MSFT)",
+    "resultsFound": "نتيجة وجدت لـ",
+    "noResults": "لم يتم العثور على أسهم لـ",
+    "noResultsDescription": "جرب البحث عن رمز سهم مختلف أو تحقق من الإملاء.",
+    "noDataAvailable": "لا توجد أسهم متاحة",
+    "noDataDescription": "يرجى المحاولة مرة أخرى لاحقاً أو التحقق من اتصال الإنترنت."
+  },
+  "ticker": {
+    "companyName": "اسم الشركة",
+    "tradingInformation": "معلومات التداول",
+    "primaryExchange": "البورصة الرئيسية",
+    "securityType": "نوع الورقة المالية",
+    "currency": "العملة",
+    "tradingStatus": "حالة التداول",
+    "marketDetails": "تفاصيل السوق",
+    "market": "السوق",
+    "locale": "المنطقة",
+    "active": "نشط",
+    "inactive": "غير نشط",
+    "exchange": {
+      "nasdaq": "النازداك",
+      "nyse": "بورصة نيويورك"
+    }
+  },
+  "actions": {
+    "retry": "إعادة المحاولة",
+    "loadingMore": "جاري تحميل المزيد من الأسهم...",
+    "endOfResults": "لقد وصلت إلى نهاية النتائج",
+    "clear": "مسح"
+  },
+  "errors": {
+    "loadingError": "حدث خطأ أثناء تحميل الأسهم",
+    "networkError": "يرجى التحقق من اتصال الإنترنت والمحاولة مرة أخرى",
+    "apiError": "تعذر جلب البيانات من الخادم"
+  }
+}

@@ -1,0 +1,23 @@
+# Get current branch name, handle initial commit case
+if git rev-parse --verify HEAD >/dev/null 2>&1; then
+  branch=$(git rev-parse --abbrev-ref HEAD 2>/dev/null || echo "main")
+else
+  # Initial commit case - no HEAD exists yet
+  branch=$(git symbolic-ref --short HEAD 2>/dev/null || echo "main")
+fi
+
+# Clean up branch name (remove any extra characters)
+branch=$(echo "$branch" | tr -d '\n' | tr -d '\r')
+
+# Check if branch name starts with feat/, hotfix/, or bug/
+if [[ "$branch" != "main" && "$branch" != "master" && "$branch" != "develop" ]]; then
+  if [[ ! "$branch" =~ ^(feat|hotfix|bug)/ ]]; then
+    echo "🚫 Branch name '$branch' is not allowed!"
+    echo "   Branch names must start with one of: feat/, hotfix/, bug/"
+    echo "   Example: feat/user-authentication, hotfix/login-bug, bug/memory-leak"
+    exit 1
+  fi
+fi
+
+# Run lint-staged for code quality checks
+npx lint-staged

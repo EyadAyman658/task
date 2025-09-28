@@ -1,0 +1,59 @@
+{
+  "title": "الملف الشخصي",
+  "subtitle": "إدارة معلوماتك الشخصية وتفضيلاتك",
+  "sections": {
+    "personalInfo": "المعلومات الشخصية",
+    "accountSettings": "إعدادات الحساب",
+    "privacy": "الخصوصية والأمان",
+    "notifications": "الإشعارات"
+  },
+  "fields": {
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "phone": "رقم الهاتف",
+    "dateOfBirth": "تاريخ الميلاد",
+    "gender": "الجنس",
+    "country": "البلد",
+    "city": "المدينة",
+    "address": "العنوان",
+    "zipCode": "الرمز البريدي",
+    "bio": "نبذة شخصية",
+    "website": "الموقع الإلكتروني",
+    "socialMedia": "وسائل التواصل الاجتماعي"
+  },
+  "placeholders": {
+    "firstName": "أدخل اسمك الأول",
+    "lastName": "أدخل اسم العائلة",
+    "email": "أدخل عنوان بريدك الإلكتروني",
+    "phone": "أدخل رقم هاتفك",
+    "bio": "أخبرنا عن نفسك...",
+    "website": "https://موقعك.com"
+  },
+  "actions": {
+    "editProfile": "تعديل الملف الشخصي",
+    "saveChanges": "حفظ التغييرات",
+    "cancelEdit": "إلغاء",
+    "uploadPhoto": "رفع صورة",
+    "removePhoto": "إزالة الصورة",
+    "changePassword": "تغيير كلمة المرور",
+    "deleteAccount": "حذف الحساب",
+    "downloadData": "تحميل بياناتي"
+  },
+  "messages": {
+    "profileUpdated": "تم تحديث الملف الشخصي بنجاح",
+    "photoUploaded": "تم رفع صورة الملف الشخصي بنجاح",
+    "photoRemoved": "تم إزالة صورة الملف الشخصي",
+    "passwordChanged": "تم تغيير كلمة المرور بنجاح",
+    "invalidFileType": "يرجى رفع ملف صورة صحيح",
+    "fileTooLarge": "حجم الملف كبير جداً. الحد الأقصى 5 ميجابايت",
+    "confirmDelete": "هل أنت متأكد من أنك تريد حذف حسابك؟ لا يمكن التراجع عن هذا الإجراء."
+  },
+  "privacy": {
+    "profileVisibility": "رؤية الملف الشخصي",
+    "showEmail": "إظهار البريد الإلكتروني للمستخدمين الآخرين",
+    "showPhone": "إظهار رقم الهاتف",
+    "allowMessages": "السماح بالرسائل من المستخدمين الآخرين",
+    "dataProcessing": "اتفاقية معالجة البيانات"
+  }
+}

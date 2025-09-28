@@ -1,0 +1,49 @@
+{
+  "title": "Dashboard",
+  "subtitle": "Welcome to your dashboard",
+  "navigation": {
+    "home": "Home",
+    "analytics": "Analytics",
+    "reports": "Reports",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "widgets": {
+    "totalUsers": "Total Users",
+    "activeUsers": "Active Users",
+    "revenue": "Total Revenue",
+    "orders": "New Orders",
+    "growth": "Growth Rate",
+    "conversion": "Conversion Rate"
+  },
+  "actions": {
+    "viewAll": "View All",
+    "viewDetails": "View Details",
+    "download": "Download",
+    "export": "Export",
+    "refresh": "Refresh",
+    "filter": "Filter",
+    "search": "Search",
+    "create": "Create New",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save Changes",
+    "cancel": "Cancel"
+  },
+  "stats": {
+    "thisWeek": "This Week",
+    "thisMonth": "This Month",
+    "thisYear": "This Year",
+    "increase": "increase",
+    "decrease": "decrease",
+    "noChange": "no change"
+  },
+  "messages": {
+    "noData": "No data available",
+    "loading": "Loading...",
+    "error": "An error occurred while loading data",
+    "success": "Data updated successfully",
+    "confirmDelete": "Are you sure you want to delete this item?"
+  }
+}

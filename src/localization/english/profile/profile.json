@@ -1,0 +1,59 @@
+{
+  "title": "User Profile",
+  "subtitle": "Manage your personal information and preferences",
+  "sections": {
+    "personalInfo": "Personal Information",
+    "accountSettings": "Account Settings",
+    "privacy": "Privacy & Security",
+    "notifications": "Notifications"
+  },
+  "fields": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "dateOfBirth": "Date of Birth",
+    "gender": "Gender",
+    "country": "Country",
+    "city": "City",
+    "address": "Address",
+    "zipCode": "ZIP Code",
+    "bio": "Bio",
+    "website": "Website",
+    "socialMedia": "Social Media"
+  },
+  "placeholders": {
+    "firstName": "Enter your first name",
+    "lastName": "Enter your last name",
+    "email": "Enter your email address",
+    "phone": "Enter your phone number",
+    "bio": "Tell us about yourself...",
+    "website": "https://yourwebsite.com"
+  },
+  "actions": {
+    "editProfile": "Edit Profile",
+    "saveChanges": "Save Changes",
+    "cancelEdit": "Cancel",
+    "uploadPhoto": "Upload Photo",
+    "removePhoto": "Remove Photo",
+    "changePassword": "Change Password",
+    "deleteAccount": "Delete Account",
+    "downloadData": "Download My Data"
+  },
+  "messages": {
+    "profileUpdated": "Profile updated successfully",
+    "photoUploaded": "Profile photo uploaded successfully",
+    "photoRemoved": "Profile photo removed",
+    "passwordChanged": "Password changed successfully",
+    "invalidFileType": "Please upload a valid image file",
+    "fileTooLarge": "File size too large. Maximum 5MB allowed",
+    "confirmDelete": "Are you sure you want to delete your account? This action cannot be undone."
+  },
+  "privacy": {
+    "profileVisibility": "Profile Visibility",
+    "showEmail": "Show email to other users",
+    "showPhone": "Show phone number",
+    "allowMessages": "Allow messages from other users",
+    "dataProcessing": "Data Processing Agreement"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "title": "لوحة التحكم",
+  "subtitle": "مرحباً بك في لوحة التحكم",
+  "navigation": {
+    "home": "الرئيسية",
+    "analytics": "التحليلات",
+    "reports": "التقارير",
+    "settings": "الإعدادات",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج"
+  },
+  "widgets": {
+    "totalUsers": "إجمالي المستخدمين",
+    "activeUsers": "المستخدمون النشطون",
+    "revenue": "إجمالي الإيرادات",
+    "orders": "الطلبات الجديدة",
+    "growth": "معدل النمو",
+    "conversion": "معدل التحويل"
+  },
+  "actions": {
+    "viewAll": "عرض الكل",
+    "viewDetails": "عرض التفاصيل",
+    "download": "تحميل",
+    "export": "تصدير",
+    "refresh": "تحديث",
+    "filter": "تصفية",
+    "search": "بحث",
+    "create": "إنشاء جديد",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "save": "حفظ التغييرات",
+    "cancel": "إلغاء"
+  },
+  "stats": {
+    "thisWeek": "هذا الأسبوع",
+    "thisMonth": "هذا الشهر",
+    "thisYear": "هذا العام",
+    "increase": "زيادة",
+    "decrease": "انخفاض",
+    "noChange": "لا تغيير"
+  },
+  "messages": {
+    "noData": "لا توجد بيانات متاحة",
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ أثناء تحميل البيانات",
+    "success": "تم تحديث البيانات بنجاح",
+    "confirmDelete": "هل أنت متأكد من أنك تريد حذف هذا العنصر؟"
+  }
+}

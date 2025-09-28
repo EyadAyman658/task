@@ -1,0 +1,35 @@
+{
+  "welcome": "Welcome",
+  "description": "This is a sample application with language switching.",
+  "title": "Sign In to Your Account",
+  "subtitle": "Welcome back! Please enter your credentials",
+  "email": "Email Address",
+  "password": "Password",
+  "emailPlaceholder": "Enter your email address",
+  "passwordPlaceholder": "Enter your password",
+  "loginButton": "Sign In",
+  "forgotPassword": "Forgot your password?",
+  "noAccount": "Don't have an account?",
+  "createAccount": "Create new account",
+  "signUp": "Sign Up",
+  "rememberMe": "Keep me signed in",
+  "orDivider": "Or continue with",
+  "socialLogin": {
+    "google": "Continue with Google",
+    "facebook": "Continue with Facebook",
+    "apple": "Continue with Apple"
+  },
+  "errors": {
+    "invalidCredentials": "Invalid email or password. Please try again.",
+    "emailRequired": "Email address is required",
+    "passwordRequired": "Password is required",
+    "emailInvalid": "Please enter a valid email address",
+    "passwordTooShort": "Password must be at least 8 characters",
+    "accountLocked": "Account temporarily locked. Try again later.",
+    "networkError": "Network error. Please check your connection."
+  },
+  "success": {
+    "loginSuccess": "Login successful! Redirecting...",
+    "passwordReset": "Password reset link sent to your email"
+  }
+}

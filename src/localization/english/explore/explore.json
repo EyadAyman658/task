@@ -1,0 +1,40 @@
+{
+  "title": "Explore Stocks",
+  "subtitle": "Search and explore stock tickers from the NASDAQ market",
+  "search": {
+    "placeholder": "Search for stock tickers (e.g., AAPL, GOOGL, MSFT)",
+    "resultsFound": "results found for",
+    "noResults": "No tickers found for",
+    "noResultsDescription": "Try searching for a different ticker symbol or check your spelling.",
+    "noDataAvailable": "No tickers available",
+    "noDataDescription": "Please try again later or check your internet connection."
+  },
+  "ticker": {
+    "companyName": "Company Name",
+    "tradingInformation": "Trading Information",
+    "primaryExchange": "Primary Exchange",
+    "securityType": "Security Type",
+    "currency": "Currency",
+    "tradingStatus": "Trading Status",
+    "marketDetails": "Market Details",
+    "market": "Market",
+    "locale": "Locale",
+    "active": "Active",
+    "inactive": "Inactive",
+    "exchange": {
+      "nasdaq": "NASDAQ",
+      "nyse": "NYSE"
+    }
+  },
+  "actions": {
+    "retry": "Retry",
+    "loadingMore": "Loading more tickers...",
+    "endOfResults": "You've reached the end of the results",
+    "clear": "Clear"
+  },
+  "errors": {
+    "loadingError": "An error occurred while loading tickers",
+    "networkError": "Please check your internet connection and try again",
+    "apiError": "Unable to fetch data from the server"
+  }
+}

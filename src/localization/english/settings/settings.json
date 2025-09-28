@@ -1,0 +1,91 @@
+{
+  "title": "Application Settings",
+  "subtitle": "Customize your app experience",
+  "categories": {
+    "general": "General",
+    "appearance": "Appearance",
+    "language": "Language & Region",
+    "notifications": "Notifications",
+    "privacy": "Privacy",
+    "security": "Security",
+    "advanced": "Advanced"
+  },
+  "general": {
+    "autoSave": "Auto-save changes",
+    "confirmExit": "Confirm before closing",
+    "defaultView": "Default view",
+    "pageSize": "Items per page",
+    "timezone": "Time zone",
+    "dateFormat": "Date format",
+    "timeFormat": "Time format"
+  },
+  "appearance": {
+    "theme": "Theme",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode",
+    "systemMode": "System default",
+    "fontSize": "Font size",
+    "fontFamily": "Font family",
+    "colorScheme": "Color scheme",
+    "animations": "Enable animations",
+    "compactView": "Compact view"
+  },
+  "language": {
+    "appLanguage": "Application language",
+    "region": "Region",
+    "currency": "Currency",
+    "numberFormat": "Number format",
+    "rtlSupport": "Right-to-left support"
+  },
+  "notifications": {
+    "enableAll": "Enable all notifications",
+    "emailNotifications": "Email notifications",
+    "pushNotifications": "Push notifications",
+    "inAppNotifications": "In-app notifications",
+    "soundEnabled": "Notification sounds",
+    "frequency": "Notification frequency",
+    "quietHours": "Quiet hours"
+  },
+  "privacy": {
+    "dataCollection": "Data collection",
+    "analytics": "Usage analytics",
+    "crashReports": "Crash reports",
+    "personalizedAds": "Personalized ads",
+    "cookieConsent": "Cookie consent",
+    "trackingPreferences": "Tracking preferences"
+  },
+  "security": {
+    "twoFactorAuth": "Two-factor authentication",
+    "sessionTimeout": "Session timeout",
+    "loginHistory": "Login history",
+    "deviceManagement": "Device management",
+    "securityAlerts": "Security alerts",
+    "passwordRequirements": "Password requirements"
+  },
+  "advanced": {
+    "debugMode": "Debug mode",
+    "betaFeatures": "Beta features",
+    "apiEndpoint": "API endpoint",
+    "cacheManagement": "Cache management",
+    "exportData": "Export settings",
+    "importData": "Import settings",
+    "resetToDefaults": "Reset to defaults"
+  },
+  "actions": {
+    "save": "Save Settings",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "export": "Export",
+    "import": "Import",
+    "testConnection": "Test Connection",
+    "clearCache": "Clear Cache"
+  },
+  "messages": {
+    "settingsSaved": "Settings saved successfully",
+    "settingsReset": "Settings reset to defaults",
+    "invalidConfiguration": "Invalid configuration",
+    "connectionFailed": "Connection test failed",
+    "cacheCleared": "Cache cleared successfully",
+    "restartRequired": "Restart required for changes to take effect"
+  }
+}

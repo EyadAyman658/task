@@ -1,0 +1,91 @@
+{
+  "title": "إعدادات التطبيق",
+  "subtitle": "تخصيص تجربة التطبيق الخاصة بك",
+  "categories": {
+    "general": "عام",
+    "appearance": "المظهر",
+    "language": "اللغة والمنطقة",
+    "notifications": "الإشعارات",
+    "privacy": "الخصوصية",
+    "security": "الأمان",
+    "advanced": "متقدم"
+  },
+  "general": {
+    "autoSave": "حفظ التغييرات تلقائياً",
+    "confirmExit": "التأكيد قبل الإغلاق",
+    "defaultView": "العرض الافتراضي",
+    "pageSize": "عدد العناصر في الصفحة",
+    "timezone": "المنطقة الزمنية",
+    "dateFormat": "تنسيق التاريخ",
+    "timeFormat": "تنسيق الوقت"
+  },
+  "appearance": {
+    "theme": "السمة",
+    "darkMode": "الوضع المظلم",
+    "lightMode": "الوضع الفاتح",
+    "systemMode": "افتراضي النظام",
+    "fontSize": "حجم الخط",
+    "fontFamily": "عائلة الخط",
+    "colorScheme": "نظام الألوان",
+    "animations": "تفعيل الرسوم المتحركة",
+    "compactView": "العرض المضغوط"
+  },
+  "language": {
+    "appLanguage": "لغة التطبيق",
+    "region": "المنطقة",
+    "currency": "العملة",
+    "numberFormat": "تنسيق الأرقام",
+    "rtlSupport": "دعم الكتابة من اليمين إلى اليسار"
+  },
+  "notifications": {
+    "enableAll": "تفعيل جميع الإشعارات",
+    "emailNotifications": "إشعارات البريد الإلكتروني",
+    "pushNotifications": "الإشعارات المدفوعة",
+    "inAppNotifications": "الإشعارات داخل التطبيق",
+    "soundEnabled": "أصوات الإشعارات",
+    "frequency": "تكرار الإشعارات",
+    "quietHours": "ساعات الهدوء"
+  },
+  "privacy": {
+    "dataCollection": "جمع البيانات",
+    "analytics": "تحليلات الاستخدام",
+    "crashReports": "تقارير الأعطال",
+    "personalizedAds": "الإعلانات المخصصة",
+    "cookieConsent": "موافقة ملفات الكوكيز",
+    "trackingPreferences": "تفضيلات التتبع"
+  },
+  "security": {
+    "twoFactorAuth": "المصادقة الثنائية",
+    "sessionTimeout": "انتهاء مهلة الجلسة",
+    "loginHistory": "تاريخ تسجيل الدخول",
+    "deviceManagement": "إدارة الأجهزة",
+    "securityAlerts": "تنبيهات الأمان",
+    "passwordRequirements": "متطلبات كلمة المرور"
+  },
+  "advanced": {
+    "debugMode": "وضع التشخيص",
+    "betaFeatures": "الميزات التجريبية",
+    "apiEndpoint": "نقطة نهاية API",
+    "cacheManagement": "إدارة التخزين المؤقت",
+    "exportData": "تصدير الإعدادات",
+    "importData": "استيراد الإعدادات",
+    "resetToDefaults": "إعادة تعيين للافتراضية"
+  },
+  "actions": {
+    "save": "حفظ الإعدادات",
+    "cancel": "إلغاء",
+    "reset": "إعادة تعيين",
+    "export": "تصدير",
+    "import": "استيراد",
+    "testConnection": "اختبار الاتصال",
+    "clearCache": "مسح التخزين المؤقت"
+  },
+  "messages": {
+    "settingsSaved": "تم حفظ الإعدادات بنجاح",
+    "settingsReset": "تم إعادة تعيين الإعدادات للافتراضية",
+    "invalidConfiguration": "تكوين غير صحيح",
+    "connectionFailed": "فشل اختبار الاتصال",
+    "cacheCleared": "تم مسح التخزين المؤقت بنجاح",
+    "restartRequired": "يتطلب إعادة تشغيل لتطبيق التغييرات"
+  }
+}
